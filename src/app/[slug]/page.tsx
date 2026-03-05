@@ -51,6 +51,7 @@ const CLUSTER_META: Record<
     pilarName: "Cercas Eléctricas",
     cityPrefix: "cerca-electrica-",
   },
+
   alarmas: {
     pilarSlug: "alarmas-colombia",
     pilarName: "Alarmas",
