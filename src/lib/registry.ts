@@ -7,8 +7,8 @@
 // Cluster content (each file calls registerPage on import)
 import "@/content/cluster-camaras";
 import "@/content/cluster-camaras-cities";
+import "@/content/cluster-cercas";
 // future clusters:
-// import "@/content/cluster-cercas";
 // import "@/content/cluster-alarmas";
 // import "@/content/cluster-acceso";
 // import "@/content/cluster-domotica";
